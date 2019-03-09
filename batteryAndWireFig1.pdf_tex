@@ -52,7 +52,7 @@
     \put(0,0){\includegraphics[width=\unitlength,page=1]{../figures/phy452-basicstatmech/batteryAndWireFig1.pdf}}%
     \put(0.08736292,0.53781686){\makebox(0,0)[rb]{\smash{+5V}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{../figures/phy452-basicstatmech/batteryAndWireFig1.pdf}}%
-    \put(0.91477348,0.5171316){\makebox(0,0)[rb]{\smash{4.7 kΩ}}}%
+    \put(0.91477348,0.5171316){\makebox(0,0)[rb]{\smash{4.7 k\(\Omega\)}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{../figures/phy452-basicstatmech/batteryAndWireFig1.pdf}}%
   \end{picture}%
 \endgroup%
